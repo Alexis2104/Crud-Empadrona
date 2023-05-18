@@ -1,0 +1,17 @@
+create database Empadronar
+go
+
+use Empadronar
+create table Productos
+(
+Id int identity (1.1) primary key,
+Nombre nvarchar (100),
+DPI nvarchar (100),
+Marca nvarchar (100),
+Stock int
+)
+
+insert into Productos
+values
+('Gaseosa','3 litros', 'sarcacola' ,7.5.24),
+('Chocolate', 'Tableta 100 gramos', 'iberica' ,12.5.36)

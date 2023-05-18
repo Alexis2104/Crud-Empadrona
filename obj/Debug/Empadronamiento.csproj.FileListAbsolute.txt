@@ -1,0 +1,13 @@
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\bin\Debug\Empadronamiento.exe.config
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\bin\Debug\Empadronamiento.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\bin\Debug\Empadronamiento.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.frm_menu.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.frm_Empadronados.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Empadronamiento\obj\Debug\Empadronamiento.frm_Empadronar.resources
